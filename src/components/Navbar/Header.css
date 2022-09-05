@@ -1,0 +1,19 @@
+
+:root{
+    --darkblue:'#041121';
+    --lightblue: '#0B2647';
+    --yellow: '#A8943D';
+    --lightgrey :'#F4F4F4';
+    --white:'#fff';
+  }
+
+.flex{
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.menu{
+  width: 60%;
+}
